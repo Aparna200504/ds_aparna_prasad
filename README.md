@@ -53,10 +53,10 @@ Table of Contents
 ------------------------------------------------------------
 
 6. Identify Hidden Signals
-Key hypotheses:
-1. High trading volume during Fear suggests capitulation, potentially creating contrarian buying opportunities
-2. Low trading volume during Extreme Greed suggests reduced activity at peaks, possibly signaling caution or selling opportunities
-3. Large variance and outliers in volumes during fear states indicate that large individual trades may provide stronger signals than averages
+   Key hypotheses:
+   1. High trading volume during Fear suggests capitulation, potentially creating contrarian buying opportunities
+   2. Low trading volume during Extreme Greed suggests reduced activity at peaks, possibly signaling caution or selling opportunities
+   3. Large variance and outliers in volumes during fear states indicate that large individual trades may provide stronger signals than averages
 
 ------------------------------------------------------------
 
@@ -83,5 +83,6 @@ How to Run
    git clone (https://github.com/Aparna200504/ds_aparna_prasad.git)
 2. Open the notebook in Google Colab or Jupyter
 3. Run all cells to reproduce analysis and outputs
+
 
 
